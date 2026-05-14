@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 B.Tech CSE student passionate about Software Development & Cloud Computing<br><br>🌱 Currently learning:<br>- Data Structures & Algorithms<br>- AWS & Docker<br>- Machine Learning basics<br><br>📚 Interested in:<br>- Backend Development<br>- Cloud Computing<br>- AI/ML Projects<br>- Open Source<br><br>📫 Reach me:<br>- LinkedIn:  https://www.linkedin.com/in/prajna-mandal-7b627a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>- Email: prajnamandal2005@gmail.com
+💻 B.Tech CSE student passionate about Software Development & Cloud Computing<br><br>🌱 Currently learning:<br>- Data Structures & Algorithms<br>- AWS & Docker<br>- Machine Learning basics<br><br>📚 Interested in:<br>- Backend Development<br>- Cloud Computing<br>- AI/ML Projects<br>- Open Source<br><br>📫 Reach me:<br>- [LinkedIn]: (https://www.linkedin.com/in/prajna-mandal-7b627a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>-) Email: prajnamandal2005@gmail.com
 
 
 ## 🌐 Socials:
